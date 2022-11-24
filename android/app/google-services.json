@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064983285437",
+    "project_id": "lmsp-6cf0e",
+    "storage_bucket": "lmsp-6cf0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064983285437:android:c60e9d3ab43f099f15f1d4",
+        "android_client_info": {
+          "package_name": "com.example.lmsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064983285437-2m9d5hm5bmbi6d7c09tju51mmo8m79hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOVhXGdu91l9fGQj85Oys8Pp9LO62fUaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064983285437-2m9d5hm5bmbi6d7c09tju51mmo8m79hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
